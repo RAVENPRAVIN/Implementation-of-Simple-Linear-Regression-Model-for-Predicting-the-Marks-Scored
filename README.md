@@ -92,7 +92,11 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
+
+
 Head & Tail 
+
+
 ![alt text](Output/HT.png)
 
 <br>
