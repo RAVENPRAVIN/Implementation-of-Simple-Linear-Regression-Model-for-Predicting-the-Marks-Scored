@@ -96,25 +96,19 @@ print('RMSE = ',rmse)
 
 Head & Tail 
 
-
 ![alt text](Output/HT.png)
-
 <br>
 Training Set Graph
 
 ![alt text](Output/Training.png)
 
-
-
 <br>
 Test Set Graph
 
 ![alt text](Output/Test.png)
-
-
 <br>
-mae,mse,rmse
 
+mae,mse,rmse
 ![alt text](Output/Errors.png)
 
 
